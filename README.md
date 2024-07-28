@@ -4,7 +4,7 @@
 2. Import The OtherInputs Package
 3. Thats It!
 ---
-### Functions
+# Functions
 ---
 # PrimaryPressed(yourHand)
 example | if (OtherInputs.PrimaryPressed(YourHand))
