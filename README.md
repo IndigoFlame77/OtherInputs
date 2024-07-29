@@ -6,11 +6,11 @@
 ---
 ## Code snippets
 ---
-# PrimaryPressed(InputHand)
-# SecondaryPressed(InputHand)
-# TriggerPressed(InputHand)
-# GripPressed(InputHand)
-# MenuButtonPressed()
-# TriggerFloat(InputHand)
-# GripFloat(InputHand)
+PrimaryPressed(InputHand) 
+SecondaryPressed(InputHand)
+TriggerPressed(InputHand)
+GripPressed(InputHand)
+MenuButtonPressed()
+TriggerFloat(InputHand)
+GripFloat(InputHand)
 ---
