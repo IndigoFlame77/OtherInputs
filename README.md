@@ -4,23 +4,11 @@
 2. Import The OtherInputs Package
 3. Thats It!
 ---
-# Functions
----
-# PrimaryPressed(yourHand)
-example | if (OtherInputs.PrimaryPressed(YourHand))
-              gameObject.SetActive(true)
----
-# SecondaryPressed(yourHand)
-example | if (OtherInputs.SecondaryPressed(YourHand))
-              gameObject.SetActive(true)
----
+## Code snippets
+# PrimaryPressed(InputHand)
+# SecondaryPressed(InputHand)
+# TriggerPressed(InputHand)
+# GripPressed(InputHand)
 # MenuButtonPressed()
-example | if (OtherInputs.MenuButtonPressed)
-              gameObject.SetActive(true)
----
-# TriggerFloat(yourHand)
-example | float ExampleFloat = OtherInputs.TriggerFloat()
----
-# GripFloat(yourHand)
-example | float ExampleFloat = OtherInputs.GripFloat()
----
+# TriggerFloat(InputHand)
+# GripFloat(InputHand)
