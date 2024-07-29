@@ -5,6 +5,7 @@
 3. Thats It!
 ---
 ## Code snippets
+---
 # PrimaryPressed(InputHand)
 # SecondaryPressed(InputHand)
 # TriggerPressed(InputHand)
@@ -12,3 +13,4 @@
 # MenuButtonPressed()
 # TriggerFloat(InputHand)
 # GripFloat(InputHand)
+---
